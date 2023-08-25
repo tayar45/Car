@@ -13,7 +13,7 @@ var right=document.getElementById('right')
 
 //Car
 var carRed=new Image()
-carRed.src="/Car_Red.webp"
+carRed.src="/Car_Red.png"
 
 var carHieght=blockSize*5
 var carWidth=blockSize*3
@@ -21,10 +21,10 @@ var carPosition=carWidth
 
 //otherCar
 var carPurple=new Image()
-carPurple.src="/Car_Purple.webp"
+carPurple.src="/Car_Purple.png"
 
 var carGreen=new Image()
-carGreen.src="/Car_Green.webp"
+carGreen.src="/Car_Green.png"
 
 var otherCol=carWidth
 var otherRow=0-blockSize*5
