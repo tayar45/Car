@@ -77,7 +77,7 @@ function update() {
     context.fillRect(60,25+i*50+s, 10, 27)
     
   }
-  if (s>=50+board.height) {
+  if (s>=70+board.height) {
     s=0
   } else {
       s+=10
